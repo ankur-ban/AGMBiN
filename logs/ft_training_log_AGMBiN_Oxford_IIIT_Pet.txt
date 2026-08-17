@@ -1,0 +1,135 @@
+✅ Pretrained weights loaded for Oxford_IIIT_Pet
+========================================
+📊 Dataset: Oxford_IIIT_Pet (37 classes)
+⚙️  Model Params: 42.45 M
+🚀 Model FLOPs:  195.41 G
+========================================
+
+🔹 Phase 1: Warmup (Linear)
+Epoch	Train_Loss	Val_Acc		LR		Time(m:s)	Status
+✅ Pretrained weights loaded for Oxford_IIIT_Pet
+========================================
+📊 Dataset: Oxford_IIIT_Pet (37 classes)
+⚙️  Model Params: 42.45 M
+🚀 Model FLOPs:  195.41 G
+========================================
+
+🔹 Phase 1: Warmup (Linear)
+Epoch	Train_Loss	Val_Acc		LR		Time(m:s)	Status
+01/5	3.5403		75.59%		0.000000	00:32		💾 BEST
+✅ Pretrained weights loaded for Oxford_IIIT_Pet
+========================================
+📊 Dataset: Oxford_IIIT_Pet (37 classes)
+⚙️  Model Params: 42.45 M
+🚀 Model FLOPs:  195.41 G
+========================================
+
+🔹 Phase 1: Warmup (Linear)
+Epoch	Train_Loss	Val_Acc		LR		Time(m:s)	Status
+01/5	3.5403		74.58%		0.000000	00:32		💾 BEST
+✅ Pretrained weights loaded for Oxford_IIIT_Pet
+========================================
+📊 Dataset: Oxford_IIIT_Pet (37 classes)
+⚙️  Model Params: 42.45 M
+🚀 Model FLOPs:  195.41 G
+========================================
+
+🔹 Phase 1: Warmup (Linear)
+Epoch	Train_Loss	Val_Acc		LR		Time(m:s)	Status
+✅ Pretrained weights loaded for Oxford_IIIT_Pet
+========================================
+📊 Dataset: Oxford_IIIT_Pet (37 classes)
+⚙️  Model Params: 42.45 M
+🚀 Model FLOPs:  195.41 G
+========================================
+
+🔹 Phase 1: Warmup (Linear)
+Epoch	Train_Loss	Val_Acc		LR		Time(m:s)	Status
+✅ Pretrained weights loaded for Oxford_IIIT_Pet
+========================================
+📊 Dataset: Oxford_IIIT_Pet (37 classes)
+⚙️  Model Params: 42.45 M
+🚀 Model FLOPs:  195.41 G
+========================================
+
+🔹 Phase 1: Warmup (Linear)
+Epoch	Train_Loss	Val_Acc		LR		Time(m:s)	Status
+01/5	3.5399		75.39%		0.000000	01:39		💾 BEST
+02/5	3.2818		78.70%		0.000000	01:40		💾 BEST
+03/5	2.8519		77.28%		0.000000	01:40		
+04/5	2.3810		81.74%		0.000000	01:40		💾 BEST
+05/5	1.9940		83.37%		0.000000	01:40		💾 BEST
+
+🔹 Phase 2: Full Network Joint Fine-Tuning
+Epoch	Train_Loss	Val_Acc		LR		Time(m:s)	Status
+01/50	1.6428		85.73%		0.000050	04:30		💾 BEST
+02/50	1.4284		87.02%		0.000050	04:30		💾 BEST
+03/50	1.3111		88.57%		0.000050	04:31		💾 BEST
+04/50	1.2329		89.52%		0.000049	04:32		💾 BEST
+05/50	1.1889		90.20%		0.000049	05:43		💾 BEST
+06/50	1.1491		90.53%		0.000048	06:02		💾 BEST
+07/50	1.1250		91.08%		0.000048	06:04		💾 BEST
+08/50	1.0970		91.48%		0.000047	06:04		💾 BEST
+09/50	1.0730		91.89%		0.000046	06:04		💾 BEST
+10/50	1.0529		92.02%		0.000045	04:39		💾 BEST
+11/50	1.0354		92.56%		0.000044	04:34		💾 BEST
+12/50	1.0215		92.43%		0.000043	04:34		
+13/50	0.9976		92.49%		0.000042	04:34		
+14/50	0.9948		92.77%		0.000041	04:33		💾 BEST
+15/50	0.9734		92.90%		0.000040	04:34		💾 BEST
+16/50	0.9734		92.97%		0.000039	04:34		💾 BEST
+17/50	0.9609		92.77%		0.000037	04:33		
+18/50	0.9500		93.51%		0.000036	04:34		💾 BEST
+19/50	0.9489		93.44%		0.000035	04:34		
+20/50	0.9376		93.37%		0.000033	04:33		
+21/50	0.9255		93.78%		0.000032	04:34		💾 BEST
+22/50	0.9246		93.31%		0.000030	04:33		
+23/50	0.9168		93.37%		0.000029	04:33		
+24/50	0.9064		93.58%		0.000027	04:34		
+25/50	0.9008		93.44%		0.000026	04:34		
+26/50	0.8999		93.78%		0.000024	04:34		
+27/50	0.9034		93.98%		0.000022	04:34		💾 BEST
+28/50	0.8942		93.78%		0.000021	04:33		
+29/50	0.8908		94.05%		0.000019	04:34		💾 BEST
+30/50	0.8938		93.91%		0.000018	04:34		
+31/50	0.8842		93.85%		0.000016	04:33		
+32/50	0.8858		93.58%		0.000015	04:34		
+33/50	0.8811		93.71%		0.000014	04:32		
+34/50	0.8826		93.85%		0.000012	04:33		
+35/50	0.8793		93.85%		0.000011	04:35		
+36/50	0.8770		93.78%		0.000010	04:33		
+37/50	0.8750		93.98%		0.000009	04:33		
+38/50	0.8692		93.71%		0.000008	04:33		
+39/50	0.8706		93.78%		0.000007	04:33		
+40/50	0.8699		93.71%		0.000006	04:34		
+41/50	0.8654		93.98%		0.000005	04:33		
+42/50	0.8717		93.98%		0.000004	04:34		
+43/50	0.8685		93.85%		0.000003	04:34		
+44/50	0.8657		93.98%		0.000003	04:33		
+45/50	0.8643		93.78%		0.000002	04:34		
+46/50	0.8629		94.12%		0.000002	04:34		💾 BEST
+47/50	0.8634		93.98%		0.000001	04:32		
+48/50	0.8632		94.05%		0.000001	04:33		
+49/50	0.8719		94.05%		0.000001	04:34		
+50/50	0.8674		93.85%		0.000001	04:34		
+
+✅ Training Completed. Model saved to /tmp/rohan_workspace/AGMBiN/finetune/ft_model_AGMBiN_Oxford_IIIT_Pet.pth
+
+📊 Running Final Comprehensive Evaluation on Validation Set...
+
+================ FINAL METRICS ================
+Top-1 Acc: 94.12%
+Top-5 Acc: 99.59%
+Mean Class Acc: 94.12%
+Macro Precision: 94.28%
+Macro Recall: 94.12%
+Macro F1-Score: 94.10%
+Throughput (img/s): 73.57
+Latency (ms/img): 13.59
+Peak VRAM (MB): 2472.45
+Model Params: 42.45 M
+Model FLOPs: 195.41 G
+===============================================
+Metrics saved to /tmp/rohan_workspace/AGMBiN/finetune/ft_eval_metrics_AGMBiN_Oxford_IIIT_Pet.txt
+
+⏱️ Total Execution Time: 04h 04m 09s

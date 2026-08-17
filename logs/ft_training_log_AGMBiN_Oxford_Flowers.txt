@@ -1,0 +1,103 @@
+✅ Pretrained weights loaded for Oxford_Flowers from /tmp/rohan_workspace/AGMBiN/models/model_AGMBiN_IN1K_150e.pth
+========================================
+📊 Dataset: Oxford_Flowers (102 classes)
+⚙️  Model Params: 43.52 M
+🚀 Model FLOPs:  195.42 G
+========================================
+
+🔹 Phase 1: Warmup (Linear)
+Epoch	Train_Loss	Val_Acc		LR		Time(m:s)	Status
+✅ Pretrained weights loaded for Oxford_Flowers from /tmp/rohan_workspace/AGMBiN/models/model_AGMBiN_IN1K_150e.pth
+========================================
+📊 Dataset: Oxford_Flowers (102 classes)
+⚙️  Model Params: 43.52 M
+🚀 Model FLOPs:  195.42 G
+========================================
+
+🔹 Phase 1: Warmup (Linear)
+Epoch	Train_Loss	Val_Acc		LR		Time(m:s)	Status
+01/5	4.6161		47.84%		0.000000	00:10		💾 BEST
+✅ Pretrained weights loaded for Oxford_Flowers from /tmp/rohan_workspace/AGMBiN/models/model_AGMBiN_IN1K_150e.pth
+========================================
+📊 Dataset: Oxford_Flowers (102 classes)
+⚙️  Model Params: 43.52 M
+🚀 Model FLOPs:  195.42 G
+========================================
+
+🔹 Phase 1: Warmup (Linear)
+Epoch	Train_Loss	Val_Acc		LR		Time(m:s)	Status
+01/5	4.6174		41.27%		0.000000	00:19		💾 BEST
+02/5	4.5615		73.24%		0.000000	00:19		💾 BEST
+03/5	4.4455		80.10%		0.000000	00:24		💾 BEST
+04/5	4.2760		80.88%		0.000000	00:28		💾 BEST
+05/5	4.0473		83.43%		0.000000	00:27		💾 BEST
+
+🔹 Phase 2: Full Network Joint Fine-Tuning
+Epoch	Train_Loss	Val_Acc		LR		Time(m:s)	Status
+01/50	3.8293		78.92%		0.000050	00:57		💾 BEST
+02/50	3.6287		81.18%		0.000050	00:57		💾 BEST
+03/50	3.4106		81.37%		0.000050	00:57		💾 BEST
+04/50	3.2229		81.47%		0.000049	00:56		💾 BEST
+05/50	3.0345		83.82%		0.000049	00:57		💾 BEST
+06/50	2.8416		83.73%		0.000048	00:56		
+07/50	2.6993		83.92%		0.000048	00:57		💾 BEST
+08/50	2.5383		84.61%		0.000047	00:56		💾 BEST
+09/50	2.3910		84.41%		0.000046	00:57		
+10/50	2.2612		85.88%		0.000045	00:57		💾 BEST
+11/50	2.1572		87.06%		0.000044	00:57		💾 BEST
+12/50	2.0468		87.75%		0.000043	00:57		💾 BEST
+13/50	1.9700		88.14%		0.000042	00:57		💾 BEST
+14/50	1.8846		88.24%		0.000041	00:57		💾 BEST
+15/50	1.8552		88.14%		0.000040	00:57		
+16/50	1.7405		88.82%		0.000039	00:57		💾 BEST
+17/50	1.7116		88.82%		0.000037	00:56		
+18/50	1.6535		89.51%		0.000036	00:57		💾 BEST
+19/50	1.5667		89.61%		0.000035	00:57		💾 BEST
+20/50	1.5316		90.29%		0.000033	00:58		💾 BEST
+21/50	1.5333		90.10%		0.000032	00:58		
+22/50	1.4520		90.88%		0.000030	00:57		💾 BEST
+23/50	1.4517		90.59%		0.000029	00:58		
+24/50	1.4383		91.08%		0.000027	00:58		💾 BEST
+25/50	1.4039		91.76%		0.000026	00:58		💾 BEST
+26/50	1.3695		91.27%		0.000024	00:57		
+27/50	1.3681		91.86%		0.000022	00:58		💾 BEST
+28/50	1.3277		91.47%		0.000021	01:12		
+29/50	1.3274		92.06%		0.000019	01:16		💾 BEST
+30/50	1.3308		92.16%		0.000018	01:16		💾 BEST
+31/50	1.3114		92.06%		0.000016	01:16		
+32/50	1.2815		91.96%		0.000015	01:16		
+33/50	1.2640		92.55%		0.000014	01:16		💾 BEST
+34/50	1.2822		92.75%		0.000012	01:16		💾 BEST
+35/50	1.2654		92.84%		0.000011	01:16		💾 BEST
+36/50	1.2713		93.14%		0.000010	01:16		💾 BEST
+37/50	1.2480		92.94%		0.000009	01:16		
+38/50	1.2461		92.75%		0.000008	01:16		
+39/50	1.2489		92.84%		0.000007	01:16		
+40/50	1.2189		92.84%		0.000006	01:17		
+41/50	1.2231		92.84%		0.000005	01:16		
+42/50	1.2370		92.94%		0.000004	01:16		
+43/50	1.2282		93.14%		0.000003	01:16		
+44/50	1.2276		93.04%		0.000003	01:16		
+45/50	1.2194		93.04%		0.000002	01:16		
+46/50	1.2339		93.04%		0.000002	01:16		
+47/50	1.2311		93.04%		0.000001	01:16		
+48/50	1.2223		93.14%		0.000001	01:16		
+49/50	1.2199		93.04%		0.000001	01:16		
+50/50	1.2019		92.94%		0.000001	01:16		
+
+✅ Training Completed. Model saved to /tmp/rohan_workspace/AGMBiN/finetune/ft_model_AGMBiN_Oxford_Flowers.pth
+
+📊 Running Final Comprehensive Evaluation on Validation Set...
+================ FINAL METRICS ================
+Top-1 Acc: 93.14%
+Top-5 Acc: 97.94%
+Mean Class Acc: 93.14%
+Macro Precision: 93.81%
+Macro Recall: 93.14%
+Macro F1-Score: 92.89%
+Throughput (img/s): 54.50
+Latency (ms/img): 18.35
+Peak VRAM (MB): 2498.83
+===============================================
+
+⏱️ Total Execution Time: 00h 57m 30s
